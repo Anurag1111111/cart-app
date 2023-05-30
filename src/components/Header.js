@@ -23,7 +23,7 @@ const Header = () => {
     <Navbar bg="dark" fixed="top">
       <Container>
         <Navbar.Brand>
-          <Link className="brand" to="/">
+          <Link className="brand" to="/cart-app">
             Shopping App
           </Link>
         </Navbar.Brand>

@@ -10,9 +10,9 @@ function App() {
       <header className="App-header">
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route exact path="/cart-app" element={<Home />} />
 
-          <Route path="/cart" element={<Cart />} />
+          <Route exact path="/cart" element={<Cart />} />
         </Routes>
       </header>
     </div>
