@@ -9,6 +9,8 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.3",
     "faker": "^5.5.3",
+    "@faker-js/faker": "^8.0.2",
+    "@types/faker": "^6.6.9",
     "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.4",
@@ -42,9 +44,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "@faker-js/faker": "^8.0.2",
-    "@types/faker": "^6.6.9"
   }
+  
 }
