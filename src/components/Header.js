@@ -76,7 +76,7 @@ const Header = () => {
                   </Link>
                 </>
               ) : (
-                <Dropdown.Item href="#/action-1">Cart is Empty</Dropdown.Item>
+                <Dropdown.Item>Cart is Empty</Dropdown.Item>
               )}
             </Dropdown.Menu>
           </Dropdown>

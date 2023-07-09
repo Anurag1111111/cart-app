@@ -88,3 +88,9 @@
 .cart-select {
   width: 90px;
 }
+.cart-empty-img {
+  width: 1100px;
+  object-fit: cover;
+  margin: auto;
+  height: 99vh;
+}
